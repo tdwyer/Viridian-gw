@@ -1,12 +1,4 @@
-Viridian-GW
-===========
-
-Ampache Clinet with Encrypted Password Storage via tdwyer/gpg-wallet (Viridian-1.2 Fork)
-
-Original Viridan 1.2 README
----------------------------
-
-=== Viridan 1.2 ===
+=== Viridan ===
 
 Viridian is a front-end for an Ampache server (see http://ampache.org). 
 Viridian is powered by python/pygtk.
